@@ -240,4 +240,4 @@ This repository serves as the official landing page for Corel WordPerfect Office
 **Get the most recent version of Corel WordPerfect Office today!**
 
 ---
-**Last updated:** 2026-09-18 17:33:03 UTC
+**Last updated:** 2026-09-18 20:31:50 UTC
